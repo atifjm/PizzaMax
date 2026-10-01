@@ -1,0 +1,27 @@
+pizza_id,pizza_name,pizza_category
+P001,Chicken Tikka,Chicken
+P002,Chicken Fajita,Chicken
+P003,Chicken Malai,Chicken
+P004,Chicken BBQ,Chicken
+P005,Chicken Jalapeno,Chicken
+P006,Chicken Creamy,Chicken
+P007,Chicken Pepperoni,Chicken
+P008,Chicken Supreme,Chicken
+P009,Chicken Achari,Chicken
+P010,Chicken Cheese,Chicken
+P011,Beef Pepperoni,Beef
+P012,Beef Fajita,Beef
+P013,Beef BBQ,Beef
+P014,Beef Supreme,Beef
+P015,Beef Jalapeno,Beef
+P016,Veggie Supreme,Veggie
+P017,Mushroom Delight,Veggie
+P018,Garden Fresh,Veggie
+P019,Spinach & Cheese,Veggie
+P020,Jalapeno Veggie,Veggie
+P021,Cheese Lover,Speciality
+P022,Four Cheese,Speciality
+P023,Creamy Garlic,Speciality
+P024,Cheese & Jalapeno,Speciality
+P025,Mexican Fiesta,Speciality
+P026,Creamy Ranch,Speciality
